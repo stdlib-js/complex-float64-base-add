@@ -244,7 +244,7 @@ int main( void ) {
 ## See Also
 
 -   <span class="package-name">[`@stdlib/math-base/ops/cdiv`][@stdlib/math/base/ops/cdiv]</span><span class="delimiter">: </span><span class="description">divide two complex numbers.</span>
--   <span class="package-name">[`@stdlib/math-base/ops/cmul`][@stdlib/math/base/ops/cmul]</span><span class="delimiter">: </span><span class="description">multiply two double-precision complex floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/complex-float64/base/mul`][@stdlib/complex/float64/base/mul]</span><span class="delimiter">: </span><span class="description">multiply two double-precision complex floating-point numbers.</span>
 -   <span class="package-name">[`@stdlib/math-base/ops/csub`][@stdlib/math/base/ops/csub]</span><span class="delimiter">: </span><span class="description">subtract two double-precision complex floating-point numbers.</span>
 
 </section>
@@ -327,7 +327,7 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/math/base/ops/cdiv]: https://github.com/stdlib-js/math-base-ops-cdiv
 
-[@stdlib/math/base/ops/cmul]: https://github.com/stdlib-js/math-base-ops-cmul
+[@stdlib/complex/float64/base/mul]: https://github.com/stdlib-js/complex-float64-base-mul
 
 [@stdlib/math/base/ops/csub]: https://github.com/stdlib-js/math-base-ops-csub
 
