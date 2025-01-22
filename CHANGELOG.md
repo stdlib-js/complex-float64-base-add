@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-22)
+
+<section class="features">
+
+### Features
+
+-   [`486fed2`](https://github.com/stdlib-js/stdlib/commit/486fed2b9816530eb135f9846f3745281cec76e2) - add `assign` and `strided` methods
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`486fed2`](https://github.com/stdlib-js/stdlib/commit/486fed2b9816530eb135f9846f3745281cec76e2) - **feat:** add `assign` and `strided` methods _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.0">
 
 ## 0.1.0 (2024-07-28)
