@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-12)
+## Unreleased (2025-03-15)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c7c1fb3`](https://github.com/stdlib-js/stdlib/commit/c7c1fb325f010a77313c58bfd51598af47720d89) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`3bad287`](https://github.com/stdlib-js/stdlib/commit/3bad287c1589abf75463bbb43311c22d4a991c22) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`486fed2`](https://github.com/stdlib-js/stdlib/commit/486fed2b9816530eb135f9846f3745281cec76e2) - **feat:** add `assign` and `strided` methods _(by Athan Reines)_
 
