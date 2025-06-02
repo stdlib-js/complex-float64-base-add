@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`fd8e4ed`](https://github.com/stdlib-js/stdlib/commit/fd8e4ed71f3040c8430bf8cbe595d8a299dfc38d) - **docs:** fix comment _(by Athan Reines)_
 -   [`664b1c7`](https://github.com/stdlib-js/stdlib/commit/664b1c73dafc01aa23ecf20f5d15eb8fe7d1f4af) - **docs:** fix comments _(by Athan Reines)_
 -   [`01fbdab`](https://github.com/stdlib-js/stdlib/commit/01fbdab1cb9d80c25f07c960b6493898a0842d06) - **docs:** change examples for `complex/float64/base/add` [(#7177)](https://github.com/stdlib-js/stdlib/pull/7177) _(by Shabareesh Shetty)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
