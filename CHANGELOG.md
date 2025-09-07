@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-09-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`04b1546`](https://github.com/stdlib-js/stdlib/commit/04b1546ca3611169c371007d2ef16e5f0af392e0) - **style:** remove excess trailing lines _(by Athan Reines)_
 -   [`4d41d28`](https://github.com/stdlib-js/stdlib/commit/4d41d2886db94c1735215a4f48579b18cee036da) - **docs:** update examples for `complex/float64/base/add` [(#7253)](https://github.com/stdlib-js/stdlib/pull/7253) _(by Shabareesh Shetty)_
 -   [`fd8e4ed`](https://github.com/stdlib-js/stdlib/commit/fd8e4ed71f3040c8430bf8cbe595d8a299dfc38d) - **docs:** fix comment _(by Athan Reines)_
 -   [`664b1c7`](https://github.com/stdlib-js/stdlib/commit/664b1c73dafc01aa23ecf20f5d15eb8fe7d1f4af) - **docs:** fix comments _(by Athan Reines)_
