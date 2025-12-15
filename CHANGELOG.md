@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-08)
+## Unreleased (2025-12-15)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`1466cce`](https://github.com/stdlib-js/stdlib/commit/1466cce297fd5071f8e9344dfc8832afebb47cdd) - **bench:** refactor to use string interpolation in `complex/float64/base/add` [(#8940)](https://github.com/stdlib-js/stdlib/pull/8940) _(by Krishna Awasthi)_
 -   [`04b1546`](https://github.com/stdlib-js/stdlib/commit/04b1546ca3611169c371007d2ef16e5f0af392e0) - **style:** remove excess trailing lines _(by Athan Reines)_
 -   [`4d41d28`](https://github.com/stdlib-js/stdlib/commit/4d41d2886db94c1735215a4f48579b18cee036da) - **docs:** update examples for `complex/float64/base/add` [(#7253)](https://github.com/stdlib-js/stdlib/pull/7253) _(by Shabareesh Shetty)_
 -   [`fd8e4ed`](https://github.com/stdlib-js/stdlib/commit/fd8e4ed71f3040c8430bf8cbe595d8a299dfc38d) - **docs:** fix comment _(by Athan Reines)_
@@ -42,11 +43,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
 -   Karan Anand
+-   Krishna Awasthi
 -   Shabareesh Shetty
 
 </section>
